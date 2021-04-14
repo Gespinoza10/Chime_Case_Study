@@ -14,7 +14,3 @@
 
 ## Business Activities
 
-* **Chime** offers various fee-free banking products, including **checking accounts** with no minimum balance, an automated savings feature, and early wage access.
-
-* In September 2019, **Chime** launched **SpotMe**, a fee-free overdraft service where customers can overdraw their accounts up to **$100** without incurring an overdraft fee; once the overdraft limit is reached, purchases will be declined but no traditional negative balance fees charged.
-
