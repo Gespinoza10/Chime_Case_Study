@@ -2,7 +2,7 @@
 # Chime Financial Inc.
 
 
-## Open Banking
+## Overview and Origin
 
 * Chime Financial Inc.
 
@@ -12,7 +12,7 @@
 
 * Chime is funded by 26 investors. **Betsalel Elfassy** and **General Atlantic** are the most recent investors.Chime has raised a total of **$1.5B** in funding over 9 rounds.
 
-## Digital Banking Made simple
+## Business Activities
 
 * **Chime** offers various fee-free banking products, including **checking accounts** with no minimum balance, an automated savings feature, and early wage access.
 
