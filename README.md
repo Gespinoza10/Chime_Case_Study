@@ -24,3 +24,6 @@
 
 * They offer **checking accounts** with no minimum balance, early wage acess, a new **Spot Me** *feature* launched in September 2019, and a **Credit Builder** *feature* launched in June 2020.
 
+#### Landscape:
+
+* **Chime** is part of the **oDigital Banking** domain in **FinTech**.
