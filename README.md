@@ -22,7 +22,7 @@
 
 * **Chime** does not have any physical branches, and doesn't charge monthly or overdraft fees.
 
-* They offer **checking accounts** with no minimum balance, early wage acess, a new **Spot Me** *feature* launched in September 2019, and a **Credit Builder** *feature* launched in June 2020.
+* They offer **checking accounts** with no minimum balance, early wage access, a new **Spot Me** *feature* launched in September 2019, and a **Credit Builder** *feature* launched in June 2020.
 
 #### Landscape:
 
