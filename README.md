@@ -26,4 +26,4 @@
 
 #### Landscape:
 
-* **Chime** is part of the **oDigital Banking** domain in **FinTech**.
+* **Chime** is part of the **Digital Banking** domain in **FinTech**.
