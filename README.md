@@ -14,7 +14,7 @@
 
 ### Business Activities
 
-* One financial problem **chime** is trying to solve is the ability to open and manage bank accounts around the world for no **cost**.
+* One financial problem **chime** is trying to solve is the ability to open and manage bank accounts around the world free of **cost**.
 
 * **Chime's** intended customers are young adults with an income of **$35,000** to **$70,000** a year, who dont want to be charged the traditional banking fees.
 
