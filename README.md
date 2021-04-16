@@ -2,7 +2,7 @@
 # Chime Financial Inc.
 
 
-## Overview and Origin
+## A new way of *Banking*!
 
 * Chime Financial Inc. 
 
