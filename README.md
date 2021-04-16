@@ -4,13 +4,11 @@
 
 ## A new way of *Banking*!
 
-* Chime Financial Inc. 
+* **Chime** was founded in 2013 in San Francisco, CA. Co-Founders **Chris Britt** (CEO) and **Ryan King** (CTO), wanted to give consumers and alternative to traditonal banking.
 
-* **Chime** was founded 2015 in San Francisco, CA. Co-Founders are **Chris Britt** (CEO) and **Ryan King** (CTO), as an alternative to traditional banking.
-
-* The company launched publicity on April 15, 2014 on the *Dr. Phil Show*.
-
-* Funded by 26 investors. **Betsalel Elfassy** and **General Atlantic** are the most recent investors. Chime has raised a total of **$1.5B** in funding over 9 rounds.
+* It is a **Neobank** *(also known as online bank,internet only bank, virtual bank, or digital bank)* company, who exist to make poeples financial serivices free and easy to acess.
+  
+* It is funded by 26 investors. **Betsalel Elfassy** and **General Atlantic** are the most recent investors. Chime has raised a total of **$1.5B** in funding over 9 rounds.
 
 ### Business Activities
 
