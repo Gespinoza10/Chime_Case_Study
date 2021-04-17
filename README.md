@@ -25,6 +25,6 @@
 
 * They offer **checking accounts** with no minimum balance, **early wage access**, a **Spot Me** *feature* launched in September 2019, and a **Credit Builder** *feature* launched in June 2020.
 
-#### In chime we trsut.
+#### In chime we trust.
 
 * **Chime** is part of the **Digital Banking** domain in **FinTech**.
