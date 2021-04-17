@@ -40,4 +40,9 @@
 
 #### Dominating *Digital Banking*
 
-*
+* **Digital Bannking** is a rapid growing *domain* in fintech, and **Chime** is represetning the *domain* with much sucess. Making people's financial life easier is why **chime** exist.
+
+* Some of the the competitor companys are **Varo**, **N26**, **simple**, and **Ally** to name a few.
+
+
+
