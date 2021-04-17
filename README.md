@@ -8,7 +8,7 @@
 
 * It is a **Neobank** *(also known as online bank,internet only bank, virtual bank, or digital bank)* company, which is backed up by 2 partner banks **Stride Bank, N.A.** and the **BankCorp Bank**.
   
-* It is funded by 26 different investors, the **Dallas Maverics** from the NBA being one of the most recent. Chime has raised a total of **$1.3B** in funding over 9 rounds.
+* It is funded by 26 different investors, the **Dallas Mavericks** from the NBA being one of the most recent. Chime has raised a total of **$1.3B** in funding over 9 rounds.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81205562/115100768-b83a4480-9ef3-11eb-88f3-138fccf25422.png" width="500"> 
@@ -25,7 +25,7 @@
 
 * They offer **checking accounts** with no minimum balance, **early wage access**, a **Spot Me** *feature* launched in September 2019, and a **Credit Builder** *feature* launched in June 2020.
 
-* With a people's first approach **Chime** takes pride on not making any profit on their costumers.
+* With a people's first approach **Chime** takes pride on not making any profit on their custumers.
 
 #### In Chime we trust 
 
