@@ -11,7 +11,7 @@
 * It is funded by 26 different investors, the **Dallas Maverics** from the NBA being one of the most recent. Chime has raised a total of **$1.3B** in funding over 9 rounds.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/81205562/115100768-b83a4480-9ef3-11eb-88f3-138fccf25422.png" width="500">  <p align="right">
+<img src="https://user-images.githubusercontent.com/81205562/115100768-b83a4480-9ef3-11eb-88f3-138fccf25422.png" width="500"> 
  
 ### What makes *Chime* Different?
 
@@ -29,4 +29,11 @@
 
 * As a third-party banking company **Chime** struggled to gain consumer trust.
 
-* Visa brand logo on **chime's** debit card was a huge incorporation, visa represents worldwide acceptance and credibility, which gave consumers the confidence to give **Chime** a try.
+* A partnership with Visa would gain the *trust* of many.
+
+* Visa brand logo on **chime's** debit card really helped **Chime's** sucess, visa represents worldwide acceptance and credibility, which gave consumers the confidence to give **Chime** a try.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/81205562/115105846-53441600-9f16-11eb-9c83-300891165f6c.png" width="500"> 
+
+
