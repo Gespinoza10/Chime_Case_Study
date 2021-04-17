@@ -42,7 +42,7 @@
 
 * **Digital Banking** is a rapid growing *domain* in fintech, and **Chime** is representing the *domain* with much success. Making people's financial life easier is why **chime** exist.
 
-* Innovation in the Domain is easy to see, *digital wallets* are replacing cash/cards and the need for an ATM.
+* Innovation in the Domain is easy to see, *digital wallets* are replacing cash/cards and the need for an ATM. Digital payments are becoming more and more popular.
 
 * Some of the competitor companies include **Varo**, **N26**, **simple**, and **Ally** to name a few.
 
