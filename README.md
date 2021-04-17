@@ -13,19 +13,20 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81205562/115100768-b83a4480-9ef3-11eb-88f3-138fccf25422.png" width="500">  <p align="right">
  
-  
 ### What makes *Chime* Different?
+
+* You can open a checking account in as little as 5 mminutes with an easy to use website and app.
 
 * One financial problem **chime** is trying to solve is the ability to open and manage bank accounts around the world free of **cost**.
 
 * **Chime's** intended customers are young adults with an income of **$35,000** to **$70,000** a year, who dont want to be charged the traditional banking fees.
 
-* This Digital bank makes it easy for their consumers to track and manage their bank account from anywhere around the world with an *internet* connection.
+* This Digital bank makes it easy for their consumers to track and manage their bank account from anywhere around the world with *internet* connection.
 
 * **Chime** does not have any physical branches, and doesn't charge monthly or overdraft fees.
 
-* They offer **checking accounts** with no minimum balance, early wage access, a new **Spot Me** *feature* launched in September 2019, and a **Credit Builder** *feature* launched in June 2020.
+* They offer **checking accounts** with no minimum balance, **early wage access**, a new **Spot Me** *feature* launched in September 2019, and a **Credit Builder** *feature* launched in June 2020.
 
-#### Landscape:
+#### In chime we trsut.
 
 * **Chime** is part of the **Digital Banking** domain in **FinTech**.
