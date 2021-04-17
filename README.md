@@ -17,7 +17,7 @@
 
 * **Chime** does not have any physical branches, and doesn't charge monthly or overdraft fees.
 
-* You can open a checking account in as little as 5 mminutes on **chime's** acessible and easy to use website or app.
+* You can open a checking account in as little as 5 minutes on **Chime's** accessible and easy to use website and app.
 
 * One financial problem **chime** is trying to solve is the ability to open and manage bank accounts around the world free of **cost**.
 
