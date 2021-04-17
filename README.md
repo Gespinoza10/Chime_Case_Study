@@ -27,7 +27,7 @@
 
 * With a people's first approach **Chime** takes pride on not making any profit on there costumers.
 
-#### In Chime we trust.
+#### In Chime we trust 
 
 * As a third-party banking company **Chime** struggled to gain consumer trust.
 
