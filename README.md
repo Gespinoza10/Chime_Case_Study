@@ -8,7 +8,8 @@
 
 * It is a **Neobank** *(also known as online bank,internet only bank, virtual bank, or digital bank)* company, who is backed up by 2 partner banks **Stride Bank, N.A.** and the **BankCorp Bank**.
   
-* It is funded by 26 investors. **Betsalel Elfassy** and **General Atlantic** are the most recent investors. Chime has raised a total of **$1.5B** in funding over 9 rounds.
+* It is funded by 26 investors. **Betsalel Elfassy** and **General Atlantic** are the most recent investors. Chime has raised a total of **$1.5B** in funding over 9 rounds. ![funding](<iframe height="600px" width="800px" src="https://craft.co/embed/v1/companies/chime/funding"/>)
+
 
 ### What makes *Chime* Different?
 
