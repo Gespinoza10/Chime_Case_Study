@@ -44,11 +44,9 @@
 
 * Innovation in the Domain is easy to see, *digital wallets* are replacing cash/cards and the need for an ATM.
 
-
-
-
-
 * Some of the competitor companies include **Varo**, **N26**, **simple**, and **Ally** to name a few.
 
+* As of *September 2020* **Chime's valuation was **$14.5 Billion**.
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/81205562/115108764-0fa5d800-9f27-11eb-976b-83ab1d7c346c.png" width="400"> 
