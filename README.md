@@ -40,7 +40,13 @@
 
 #### Dominating *Digital Banking*
 
-* **Digital Banking** is a rapid growing *domain* in fintech, and **Chime** is represetning the *domain* with much sucess. Making people's financial life easier is why **chime** exist.
+* **Digital Banking** is a rapid growing *domain* in fintech, and **Chime** is representing the *domain* with much sucess. Making people's financial life easier is why **chime** exist.
+
+* Innovation in the Domain is easy to see, *digital wallets* are replacing cash/cards and the need for an ATM.
+
+
+
+
 
 * Some of the the competitor companys include **Varo**, **N26**, **simple**, and **Ally** to name a few.
 
