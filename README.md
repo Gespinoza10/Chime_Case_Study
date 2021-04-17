@@ -17,15 +17,15 @@
 
 * Unlike traditional banking  **Chime** does not have any physical branches, or tellers.
 
-* Opening a checking account is as easy as visiting **Chime's** online website by desktop or mobile phone and creating an account that should take about 2 minutes.
+* Opening a checking account is as easy as visiting **Chime's** online website by desktop or mobile phone and creating an account, the process should take about 2 minutes.
 
-* Access to  your *account balance*, *transaction records*, *account security options* instantly after creating an account and downloading the **Chime App**.
+* Access your *account balance*, *transaction records*, *account security options* instantly after creating an account and downloading the **Chime App**.
 
 * The company's intended customers are young adults with an income of **$35,000** to **$70,000** a year, who don't want to be charged the traditional banking fees.
 
 * They offer **checking accounts** with no minimum balance, **early wage access**, a **Spot Me** *feature* launched in September 2019, and a **Credit Builder** *feature* launched in June 2020.
 
-* With a people's first approach **Chime** takes pride on not making any profit on their custumers.
+* With a people's first approach **Chime** takes pride in not making any profit on their customers.
 
 #### In Chime we trust 
 
@@ -46,7 +46,7 @@
 
 * Some of the competitor companies include **Varo**, **N26**, **simple**, and **Ally** to name a few.
 
-* As of *September 2020* **Chime's valuation was **$14.5 Billion**.
+* As of *September 2020* **Chime's valuation was **$14.5 Billion**. Surpassing **Robinhood** as the most valuable U.S. consumer Fintech.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81205562/115108764-0fa5d800-9f27-11eb-976b-83ab1d7c346c.png" width="400"> 
