@@ -17,9 +17,9 @@
 
 * Unlike traditional banking  **Chime** does not have any physical branches, or tellers.
 
-* Simply by going on their website or downloading the **Chime** app you can open a checking account in as little as 5 minutes.
+* Opening a checking account is as easy as visiting **Chime's** online website by desktop or mobile phone and creating an account that should take about 2 minutes.
 
-* Access to  your account balance, transaction records, account security options all  in the palm of your hand.
+* Access to  your *account balance*, *transaction records*, *account security options* instantly after creating an account and downloading the **Chime App**.
 
 * The company's intended customers are young adults with an income of **$35,000** to **$70,000** a year, who don't want to be charged the traditional banking fees.
 
