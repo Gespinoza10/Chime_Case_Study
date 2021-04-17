@@ -33,7 +33,7 @@
 
 * A partnership with Visa would gain the *trust* of many.
 
-* Visa brand logo on **chime's** debit card really helped **Chime's** sucess, visa represents worldwide acceptance and credibility, which gave consumers the confidence to give **Chime** a try.
+* Visa brand logo on **chime's** debit card really helped **Chime's** success, visa represents worldwide acceptance and credibility, which gave consumers the confidence to give **Chime** a try.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81205562/115105846-53441600-9f16-11eb-9c83-300891165f6c.png" width="500"> 
