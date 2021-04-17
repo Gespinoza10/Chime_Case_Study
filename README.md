@@ -15,16 +15,18 @@
  
 ### What makes *Chime* Different?
 
-* **Chime** does not have any physical branches, and does not charge *monthly* or *overdraft fees*.
+* Unlike traditonal banking  **Chime** does not have any physical branches, or tellers.
 
 * Simply by going on their website or downloading the **Chime** app you can open a checking account in as little as 5 minutes.
 
-* One financial problem **chime** is trying to solve is the ability to open and manage bank accounts around the world free of **cost**.
+* Acess to  your account balance, transaction records, accoubnt security options all  in the palm of your hand.
 
-* **Chime's** intended customers are young adults with an income of **$35,000** to **$70,000** a year, who dont want to be charged the traditional banking fees.
+* The company's intended customers are young adults with an income of **$35,000** to **$70,000** a year, who dont want to be charged the traditional banking fees.
 
 * They offer **checking accounts** with no minimum balance, **early wage access**, a **Spot Me** *feature* launched in September 2019, and a **Credit Builder** *feature* launched in June 2020.
 
 #### In chime we trust.
 
 * As a third-party banking company **Chime** struggled to gain consumer trust.
+
+* Visa brand logo on **chime's** debit card was a huge incorporation, visa represents worldwide acceptance and credibility, which gave consumers the confidence to give **Chime** a try.
