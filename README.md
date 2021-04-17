@@ -10,7 +10,7 @@
   
 * It is funded by 26 investors. **Betsalel Elfassy** and **General Atlantic** are the most recent investors. Chime has raised a total of **$1.5B** in funding over 9 rounds.
 
-### What makes **Chime** Different?
+### What makes *Chime* Different?
 
 * One financial problem **chime** is trying to solve is the ability to open and manage bank accounts around the world free of **cost**.
 
