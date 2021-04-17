@@ -48,7 +48,7 @@
 
 
 
-* Some of the the competitor companies include **Varo**, **N26**, **simple**, and **Ally** to name a few.
+* Some of the competitor companies include **Varo**, **N26**, **simple**, and **Ally** to name a few.
 
 
 
