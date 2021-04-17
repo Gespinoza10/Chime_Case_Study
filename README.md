@@ -8,11 +8,9 @@
 
 * It is a **Neobank** *(also known as online bank,internet only bank, virtual bank, or digital bank)* company, who is backed up by 2 partner banks **Stride Bank, N.A.** and the **BankCorp Bank**.
   
-* It is funded by 26 investors. **Betsalel Elfassy** and **General Atlantic** are the most recent investors. Chime has raised a total of **$1.5B** in funding over 9 rounds. ![funding](![image](https://user-images.githubusercontent.com/81205562/115099864-93db6980-9eed-11eb-9ff0-79a72a133043.png)
+* It is funded by 26 investors. **Betsalel Elfassy** and **General Atlantic** are the most recent investors. Chime has raised a total of **$1.5B** in funding over 9 rounds.
 
-
-
-
+![image](https://user-images.githubusercontent.com/81205562/115099959-3f84b980-9eee-11eb-83ce-33678db3c5e6.png)
 ### What makes *Chime* Different?
 
 * One financial problem **chime** is trying to solve is the ability to open and manage bank accounts around the world free of **cost**.
