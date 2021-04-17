@@ -15,7 +15,7 @@
  
 ### What makes *Chime* Different?
 
-* **Chime** does not have any physical branches, and doesn't charge monthly or overdraft fees.
+* **Chime** does not have any physical branches, and does not charge *monthly* or *overdraft fees*.
 
 * Simply by going on their website or downloading the **Chime** app you can open a checking account in as little as 5 minutes.
 
@@ -27,4 +27,4 @@
 
 #### In chime we trust.
 
-* As a third-party banking company **Chime** struggled to gain 
+* As a third-party banking company **Chime** struggled to gain consumer trust.
