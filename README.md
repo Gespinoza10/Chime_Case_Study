@@ -25,7 +25,9 @@
 
 * They offer **checking accounts** with no minimum balance, **early wage access**, a **Spot Me** *feature* launched in September 2019, and a **Credit Builder** *feature* launched in June 2020.
 
-#### In chime we trust.
+* With a people's first approach **Chime** takes pride on not making any profit on there costumers.
+
+#### In Chime we trust.
 
 * As a third-party banking company **Chime** struggled to gain consumer trust.
 
@@ -36,4 +38,6 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81205562/115105846-53441600-9f16-11eb-9c83-300891165f6c.png" width="500"> 
 
+#### Dominating *Digital Banking*
 
+*
