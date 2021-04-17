@@ -4,9 +4,9 @@
 
 ## A new way of *Banking*!
 
-* **Chime** was founded in 2013 in San Francisco, CA. Co-Founders **Chris Britt** (CEO) and **Ryan King** (CTO), wanted to give consumers an alternative to traditonal banking.
+* **Chime** was founded in 2013 in San Francisco, CA. Co-Founders **Chris Britt** (CEO) and **Ryan King** (CTO), wanted to give consumers an alternative to traditional banking.
 
-* It is a **Neobank** *(also known as online bank,internet only bank, virtual bank, or digital bank)* company, who is backed up by 2 partner banks **Stride Bank, N.A.** and the **BankCorp Bank**.
+* It is a **Neobank** *(also known as online bank,internet only bank, virtual bank, or digital bank)* company, which is backed up by 2 partner banks **Stride Bank, N.A.** and the **BankCorp Bank**.
   
 * It is funded by 26 different investors, the **Dallas Maverics** from the NBA being one of the most recent. Chime has raised a total of **$1.3B** in funding over 9 rounds.
 
@@ -15,17 +15,17 @@
  
 ### What makes *Chime* Different?
 
-* Unlike traditonal banking  **Chime** does not have any physical branches, or tellers.
+* Unlike traditional banking  **Chime** does not have any physical branches, or tellers.
 
 * Simply by going on their website or downloading the **Chime** app you can open a checking account in as little as 5 minutes.
 
-* Acess to  your account balance, transaction records, accoubnt security options all  in the palm of your hand.
+* Access to  your account balance, transaction records, account security options all  in the palm of your hand.
 
-* The company's intended customers are young adults with an income of **$35,000** to **$70,000** a year, who dont want to be charged the traditional banking fees.
+* The company's intended customers are young adults with an income of **$35,000** to **$70,000** a year, who don't want to be charged the traditional banking fees.
 
 * They offer **checking accounts** with no minimum balance, **early wage access**, a **Spot Me** *feature* launched in September 2019, and a **Credit Builder** *feature* launched in June 2020.
 
-* With a people's first approach **Chime** takes pride on not making any profit on there costumers.
+* With a people's first approach **Chime** takes pride on not making any profit on their costumers.
 
 #### In Chime we trust 
 
@@ -40,7 +40,7 @@
 
 #### Dominating *Digital Banking*
 
-* **Digital Banking** is a rapid growing *domain* in fintech, and **Chime** is representing the *domain* with much sucess. Making people's financial life easier is why **chime** exist.
+* **Digital Banking** is a rapid growing *domain* in fintech, and **Chime** is representing the *domain* with much success. Making people's financial life easier is why **chime** exist.
 
 * Innovation in the Domain is easy to see, *digital wallets* are replacing cash/cards and the need for an ATM.
 
@@ -48,7 +48,7 @@
 
 
 
-* Some of the the competitor companys include **Varo**, **N26**, **simple**, and **Ally** to name a few.
+* Some of the the competitor companies include **Varo**, **N26**, **simple**, and **Ally** to name a few.
 
 
 
