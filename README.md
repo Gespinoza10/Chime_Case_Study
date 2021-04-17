@@ -33,7 +33,7 @@
 
 * A partnership with Visa would bring a solution to **Chime's** biggest problem.
 
-* Visa brand logo on **chime's** debit card really helped **Chime's** success, visa represents worldwide acceptance and credibility, which gave consumers the confidence to give **Chime** a try.
+*  The Visa brand logo on **chime's** debit card really helped **Chime's** success, visa represents worldwide acceptance and credibility, which gave consumers the confidence to give **Chime** a try.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81205562/115105846-53441600-9f16-11eb-9c83-300891165f6c.png" width="500"> 
@@ -46,7 +46,10 @@
 
 * Some of the competitor companies include **Varo**, **N26**, **simple**, and **Ally** to name a few.
 
-* As of *September 2020* **Chime's valuation was **$14.5 Billion** Surging past **Robinhood** as the most valuable U.S. consumer Fintech.
+* AI, data analysis, and machine learning, are some of the many technologies being used to innovate the **Domain**.
+
+* As of *September 2020* **Chime's valuation was **$14.5 Billion** Surging past **Robinhood** as the most valuable **U.S.** consumer *Fintech*.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81205562/115108764-0fa5d800-9f27-11eb-976b-83ab1d7c346c.png" width="400"> 
+  
