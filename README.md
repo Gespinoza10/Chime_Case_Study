@@ -1,7 +1,6 @@
 # Case Study 
 # Chime Financial Inc.
 
-
 ## A new way of *Banking*!
 
 * **Chime** was founded in 2013 in San Francisco, CA. Co-Founders **Chris Britt** (CEO) and **Ryan King** (CTO), wanted to give consumers an alternative to traditional banking.
