@@ -38,6 +38,12 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81205562/115105846-53441600-9f16-11eb-9c83-300891165f6c.png" width="500"> 
 
+ ##### Room for improvement
+ 
+ * Cash deposits can become a *nuisance* when banking with **Chime**. You can only make cash deposists to your account in certain designated locations, given to you on **Chime's** app or website.
+ 
+* In addition, when making a cash deposit to your account you will also be charged a *deposit fee*, the **fee** amount depends on the amount being deposited.
+ 
 #### Dominating *Digital Banking*
 
 * **Digital Banking** is a rapid growing *domain* in fintech, and **Chime** is representing the *domain* with much success. Making people's financial life easier is why **chime** exist.
@@ -52,4 +58,8 @@
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81205562/115108764-0fa5d800-9f27-11eb-976b-83ab1d7c346c.png" width="400"> 
+  
+ 
+
+  
   
