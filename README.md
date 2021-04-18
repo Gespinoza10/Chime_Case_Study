@@ -1,4 +1,3 @@
-# Case Study 
 # Chime Financial Inc.
 
 ## A new way of *Banking*!
