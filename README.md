@@ -57,7 +57,7 @@
 * As of *September 2020* **Chime's valuation was **$14.5 Billion** Surging past **Robinhood** as the most valuable **U.S.** consumer *Fintech*.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/81205562/115108764-0fa5d800-9f27-11eb-976b-83ab1d7c346c.png" width="400"> 
+<img src="https://user-images.githubusercontent.com/81205562/115133583-45e26680-9fbe-11eb-9d7c-54b9aa936bf7.png" width="400"> 
   
 **Resources**
 
