@@ -33,14 +33,14 @@
 
 * A partnership with Visa would bring a solution to **Chime's** biggest problem.
 
-*  The Visa brand logo on **chime's** debit card really helped **Chime's** success, visa represents worldwide acceptance and credibility, which gave consumers the confidence to give **Chime** a try.
+*  The Visa brand logo on **Chime's** debit card really helped **Chime's** success, visa represents worldwide acceptance and credibility, which gave consumers the confidence to give **Chime** a try.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81205562/115105846-53441600-9f16-11eb-9c83-300891165f6c.png" width="500"> 
 
  ##### Room for improvement
  
- * Cash deposits can become a *nuisance* when banking with **Chime**. You can only make cash deposists to your account in certain designated locations, given to you on **Chime's** app or website.
+ * Cash deposits can become a *nuisance* when banking with **Chime**. You can only make cash deposits to your account in certain designated locations, given to you on **Chime's** app or website.
  
 * In addition, when making a cash deposit to your account you will also be charged a *deposit fee*, the **fee** amount depends on the amount being deposited.
  
@@ -59,4 +59,10 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81205562/115108764-0fa5d800-9f27-11eb-976b-83ab1d7c346c.png" width="400"> 
   
- 
+**Resources**
+
+* [wikipedia](https://en.wikipedia.org/wiki/Chime_(company))
+* [craft](https://craft.co/chime/metrics)
+* [CNBC](https://www.cnbc.com/2020/09/18/chime-is-now-worth-14point5-billion-surging-past-robinhood-as-the-most-valuable-us-consumer-fintech-.html)
+* [Chime](https://www.chime.com)
+* [Stackshare](https://stackshare.io/chime/chime)
