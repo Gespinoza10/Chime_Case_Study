@@ -4,7 +4,7 @@
 
 * **Chime** was founded in 2013 in San Francisco, CA. Co-Founders **Chris Britt** (CEO) and **Ryan King** (CTO), wanted to give consumers an alternative to traditional banking.
 
-* It is a **Neobank** *(also known as online bank,internet only bank, virtual bank, or digital bank)* company, which is backed up by 2 partner banks **Stride Bank, N.A.** and the **BankCorp Bank**.
+* It is a **Neobank** *(also known as an online bank, internet only-bank, virtual bank, or digital bank)* company, which is backed up by 2 partner banks **Stride Bank, N.A.** and the **BankCorp Bank**.
   
 * It is funded by 26 different investors, the **Dallas Mavericks** from the NBA being one of the most recent. **Chime** has raised a total of **$1.3B** in funding over 9 rounds.
 
