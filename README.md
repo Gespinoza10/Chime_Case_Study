@@ -44,7 +44,7 @@
  
 * In addition, when making a cash deposit to your account you will also be charged a *deposit fee*, the **fee** amount depends on the amount being deposited.
  
-#### Dominating *Digital Banking*
+###### Dominating *Digital Banking*
 
 * **Digital Banking** is a rapid growing *domain* in fintech, and **Chime** is representing the *domain* with much success. Making people's financial life easier is why **chime** exist.
 
@@ -60,6 +60,3 @@
 <img src="https://user-images.githubusercontent.com/81205562/115108764-0fa5d800-9f27-11eb-976b-83ab1d7c346c.png" width="400"> 
   
  
-
-  
-  
