@@ -52,7 +52,7 @@
 
 * Artificial intelligence, data analysis, and machine learning are some of the many technologies being used to innovate the **Domain**.
 
-* As of *September 2020* **Chime's valuation was **$14.5 Billion** surging past **Robinhood** as the most valuable **U.S.** consumer *Fintech*.
+* As of *September 2020* **Chime's** valuation was **$14.5 Billion** surging past **Robinhood** as the most valuable **U.S.** consumer *Fintech*.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/81205562/115133583-45e26680-9fbe-11eb-9d7c-54b9aa936bf7.png" width="400"> 
